@@ -3,6 +3,8 @@ This repository will be a source for different tools to use in embedded systems 
 This is for me so dont be mean >:(
 
 # Choosing MCU
+https://ie.rs-online.com/web/p/microcontroller-development-tools/1438574 - They are all the same price, this one has a 16bit adc and is a low power option.
+
 ESP 32 vs. STM 32.
 Having experience with STM 32 I have no idea what the difference is at all. 
 The STM 32 seems optimised for lower power operations, which is perfect for polling.
@@ -26,7 +28,10 @@ Load cell is roughly 100kg/16 bit => 100kg/2^16-1 = 1.53g/DU.
 Voltage resolution is 3.3V/16 bit = 50.35uv/DU
 # Design
 ## [ ] LoRa Devices
+https://ie.rs-online.com/web/p/lpwan/0316157?gb=s
 
+https://ie.rs-online.com/web/p/lpwan/2647778?gb=s
+https://ie.rs-online.com/web/p/lpwan/9033059?gb=s
 ## [ ] Weighing Scales
 To weigh a item of roughly 5 to 80 kg depending, a load cell of some sort is needed.
 Outdoor applications are needed, so a IP65 rating is desired.
