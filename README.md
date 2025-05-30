@@ -45,6 +45,10 @@ Technical testing will be needed.
 
 ![image](https://github.com/user-attachments/assets/c9e1730f-6496-4467-bbd1-4686672334ed)
 
+
+### Update
+I bought a cheap pack off of amazon, load cells that are to accuractely operate at certain levels are crazy expensive.
+
 ## [ ] Reciever Alert
 SMS messages?
 
