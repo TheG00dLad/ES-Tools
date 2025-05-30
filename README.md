@@ -23,6 +23,9 @@ Need to check if it is optimal.
 - Need to atleast 1 internal op amp for the load cell
 - If the single temperature & humidity sensor works with it all inbuilt, there is less stress.
 
+![image](https://github.com/user-attachments/assets/2708e833-cfd9-4b16-a35f-8a26c84749c9)
+![image](https://github.com/user-attachments/assets/6d9bbecd-fdcd-49fa-8549-11d27c6a82ab)
+
 # Theorecital Resolutions
 Load cell is roughly 100kg/16 bit => 100kg/2^16-1 = 1.53g/DU.
 Voltage resolution is 3.3V/16 bit = 50.35uv/DU
@@ -55,6 +58,7 @@ SMS messages?
 https://randomnerdtutorials.com/sim900-gsm-gprs-shield-arduino/
 ## [ ] Temperature Sensor
 
+![image](https://github.com/user-attachments/assets/7269cdc5-72d0-42e4-b0c4-20abbfb0c4fc)
 
 ## [ ] Humidity Sensor
 https://ie.rs-online.com/web/p/temperature-humidity-sensor-ics/2626175
